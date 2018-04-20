@@ -9,7 +9,7 @@
   - Postgres
   - Python + packages
 
--Configurations
+- Configurations
   - Change SSH to port 2200
   - Block remote login for root
   - Require RSA authentication (no password)
